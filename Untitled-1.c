@@ -1,7 +1,7 @@
-# include <stdio.h>
+#include <stdio.h>
 
 int main(void){
     int num = 42;
-    printf("%d", num);
+    printf("print : %d", num);
     return 0;
 }
